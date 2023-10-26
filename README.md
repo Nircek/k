@@ -68,6 +68,10 @@ https://www.codewars.com/kata/5264d2b162488dc400000001/cpp
 
 ## W6 STL Anagramy
 
+## Dodatkowe autorskie zadania (jakby ktoś chciał i się nudził)
+
+https://github.com/Nircek
+
 https://szkopul.edu.pl/problemset/problem/Aq-3LEQBYOdbiqQXvn3TJ0Id/site/?key=statement
 
 (patrz http://www.algonotes.com/pl/archive/oi/ albo https://szkopul.edu.pl/task_archive/oi/)
